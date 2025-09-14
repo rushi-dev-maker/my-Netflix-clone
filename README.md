@@ -1,3 +1,3 @@
 # my-Netflix-clone
-this my first netflix clone project  in html or css
+this my first netflix clone project  in html and css
 By:Rushikesh Aher
